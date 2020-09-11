@@ -1,11 +1,11 @@
 # Site settings
 author: Jessi Poulson
-title: 
+title: A New Direction
 header-img: img/home-bg.png
 email: jessipoulson@hotmail.com
 copyright_name: Jessi Poulson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Building Line Upon Line of Code to Become a Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jessikapoulson
